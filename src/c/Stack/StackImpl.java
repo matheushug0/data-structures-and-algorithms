@@ -14,7 +14,7 @@ public class StackImpl {
         System.out.println("Peek: " + stack.peek());
         System.out.println("Stack Size: " + stack.size());
 
-        for(Integer i: stack) {
+        for (Integer i : stack) {
             System.out.println(i);
         }
     }
