@@ -1,6 +1,5 @@
-package a.DynamicArray;
+package DS.DynamicArray;
 
-import java.util.Arrays;
 import java.util.Iterator;
 
 @SuppressWarnings("unchecked")

@@ -1,4 +1,4 @@
-package b.DoublyLinkedList;
+package DS.DoublyLinkedList;
 
 import java.util.Iterator;
 

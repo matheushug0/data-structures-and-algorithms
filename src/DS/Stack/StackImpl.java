@@ -1,4 +1,4 @@
-package c.Stack;
+package DS.Stack;
 
 public class StackImpl {
     public static void main(String[] args) {

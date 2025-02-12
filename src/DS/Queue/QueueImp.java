@@ -1,4 +1,4 @@
-package d.Queue;
+package DS.Queue;
 
 public class QueueImp {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package b.DoublyLinkedList;
+package DS.DoublyLinkedList;
 
 public class DoublyLinkedListImpl {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
-package c.Stack;
+package DS.Stack;
 
-import b.DoublyLinkedList.DoublyLinkedList;
+import DS.DoublyLinkedList.DoublyLinkedList;
 
 import java.util.Iterator;
 

@@ -1,4 +1,4 @@
-package d.Queue;
+package DS.Queue;
 
 import java.util.Iterator;
 import java.util.LinkedList;

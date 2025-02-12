@@ -1,4 +1,4 @@
-package a.DynamicArray;
+package DS.DynamicArray;
 
 public class ArrayImpl {
     public static void main(String[] args) {

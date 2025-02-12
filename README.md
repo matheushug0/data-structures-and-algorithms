@@ -17,9 +17,11 @@ Personal studies of Data Structures and Algorithms with implementations in Java.
 ## 📺 Youtube Playlists
 - [Algorithms](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
 - [Data Structures](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu)
+- [Collection Framework](https://www.youtube.com/watch?v=VE_AAUxTUCY&t=5947s)
 
 ## 📌 Data Structures
    1. [Dynamic Array](https://csvistool.com/ArrayList)
    2. [DoublyLinkedList](https://csvistool.com/DoublyLinkedList)
    3. [Stack](https://csvistool.com/StackLL)
    4. [Queue](https://csvistool.com/QueueLL)
+   5. [PriorityQueue](https://csvistool.com/Heap)
